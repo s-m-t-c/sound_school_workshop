@@ -9,3 +9,5 @@ This repository contains a link to the slides ([here](https://docs.google.com/pr
 The presentation materials are not self-contained in that there was significant in person explanation and instruction in the workshop. (Un)fortunately you can't hear all my jokes.
 
 I will try and run a more indepth, technical workshop in the future.
+
+Thanks to the great MIDITime library you can check out here: https://github.com/cirlabs/miditime
