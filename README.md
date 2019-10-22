@@ -1,4 +1,4 @@
-# sound_school_workshop_materials
+# Read this!
 This repository contains the Jupyter notebook, example data set and a link to the slides of a 2 hour Data sonification workshop 
 I conducted for Sound School in Melbourne.
 
