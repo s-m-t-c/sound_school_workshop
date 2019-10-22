@@ -2,6 +2,8 @@
 
 I conducted a 2 hour Data sonification workshop for Sound School in Melbourne.
 
+It focused on a conceptual perspective of sonification and less so on specific tools to achieve it.
+
 This repository contains a link to the slides along with a Jupyter notebook and example dataset.
 
 The presentation is available here: http://tiny.cc/osgxez
